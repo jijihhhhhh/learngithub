@@ -11,4 +11,4 @@ $ git status
 #
 #       modified:   readme.txt
 #
-
+$ git commit -m "git tracks changes"
